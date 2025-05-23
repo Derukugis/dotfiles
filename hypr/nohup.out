@@ -1,0 +1,23 @@
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] Cannot launch multiple instances of Hyprpaper at once!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] Cannot launch multiple instances of Hyprpaper at once!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Preloaded target /home/derukugi/Downloads/nord.png in 142.08ms -> Pixel size: [4717, 2984]
+[LOG] Buffer created for target /home/derukugi/Downloads/nord.png, Shared Memory usage: 7.1MB
+[LOG] Buffer created for target /home/derukugi/Downloads/nord.png, Shared Memory usage: 14.7MB
+[LOG] Total SM usage for all buffers: 21.8MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/29e2e59fdbab8ed2cc23a20e3c6043d5decb5cdc_1746949917_657903500/.hyprpaper.sock (fd: 7)
+[LOG] configure for HDMI-A-5
+[LOG] configure for HDMI-A-5
+[LOG] configure for DP-5
+[LOG] configure for DP-5
+[LOG] Image data for HDMI-A-5: /home/derukugi/Downloads/nord.png at [0.00, -17.94], scale: 0.36 (original image size: [4717, 2984])
+[LOG] Submitting viewport dest size 1680x1050 for 5a8ef36cf0c0
+[LOG] Image data for DP-5: /home/derukugi/Downloads/nord.png at [0.00, -165.34], scale: 0.54 (original image size: [4717, 2984])
+[LOG] Submitting viewport dest size 2560x1440 for 5a8ef36d3690
+[LOG] handlePreferredScale: 1.00 for 5a8ef36cf0c0
+[LOG] handlePreferredScale: 1.00 for 5a8ef36d3690
