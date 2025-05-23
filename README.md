@@ -1,1 +1,1 @@
-My themes and configs for selected applications
+my themes and configs for select applications
